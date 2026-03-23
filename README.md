@@ -54,7 +54,7 @@ PitMind/
 
 **1️⃣ Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/PitMind.git
+git clone https://github.com/lizathulya/PitMind.git
 cd PitMind
 ```
 
